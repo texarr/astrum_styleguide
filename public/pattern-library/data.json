@@ -67,6 +67,23 @@
                     "name": "primary",
                     "title": "Primary Button",
                     "width": "half"
+                },
+                {
+                    "group": "buttons",
+                    "name": "secondary",
+                    "title": "Secondary Button",
+                    "width": "half"
+                }
+            ]
+        },
+        {
+            "name": "forms",
+            "title": "Forms",
+            "components": [
+                {
+                    "group": "forms",
+                    "name": "checklist",
+                    "title": "Checkbox"
                 }
             ]
         },

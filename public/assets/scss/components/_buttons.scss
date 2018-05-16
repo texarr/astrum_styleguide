@@ -9,4 +9,14 @@
     background: $background-primary;
     border-color: $brand-primary-color;
   }
+
+  &--primary {
+    background: $brand-primary-color;
+    color: $background-primary;
+  }
+
+  &--secondary {
+    background: $brand-secondary-color;
+    color: $background-primary;
+  }
 }
