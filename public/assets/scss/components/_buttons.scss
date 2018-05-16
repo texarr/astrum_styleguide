@@ -1,0 +1,11 @@
+.btn {
+  border-radius: 5px;
+  padding: 8px 4px;
+  text-decoration: none;
+  color: $brand-primary-color;
+
+  &--default {
+    background: $background-primary;
+    border: 1px solid $brand-primary-color;
+  }
+}
