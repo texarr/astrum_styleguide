@@ -3,9 +3,10 @@
   padding: 8px 4px;
   text-decoration: none;
   color: #23182c;
+  border: 1px solid #000;
 }
 
 .btn--default {
   background: #fff;
-  border: 1px solid #23182c;
+  border-color: #23182c;
 }

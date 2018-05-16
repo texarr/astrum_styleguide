@@ -1,1 +1,1 @@
-Default button style.
+default button style
